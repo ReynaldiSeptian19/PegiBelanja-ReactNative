@@ -15,7 +15,7 @@ const App = () => {
         fontWeight:'600', 
         color: '#112340', 
         marginTop: 20
-        }}>PegiBelanja</Text>
+        }}>PegiBelanja.com</Text>
     </View>
   )
 }
